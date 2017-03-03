@@ -1,0 +1,40 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7091E352E8D4184950A0C02075602B317227549E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "a5c0ab31-c8dc-972a-1fb6-ce57b7db7bff++505" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "a5c0ab31-c8dc-972a-1fb6-ce57b7db7bff++505" : 9223372036854775807,
+    "7091E352E8D4184950A0C02075602B317227549E" : 9223372036854775807,
+    "89506C469A7CBF718F3AAA5FDA8255EE600EBBE5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F077C99D-E027-4289-8131-E8850F3D5E52",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "a5c0ab31-c8dc-972a-1fb6-ce57b7db7bff++505" : "",
+    "7091E352E8D4184950A0C02075602B317227549E" : "Travel-Helper\/",
+    "89506C469A7CBF718F3AAA5FDA8255EE600EBBE5" : "TravelPlan\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TravelPlan",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TravelPlan.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JianhaoTan\/Travel-Helper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7091E352E8D4184950A0C02075602B317227549E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tamgimhou\/Travel-Plan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89506C469A7CBF718F3AAA5FDA8255EE600EBBE5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tamgimhou\/Travel-Plan.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "a5c0ab31-c8dc-972a-1fb6-ce57b7db7bff++505"
+    }
+  ]
+}
